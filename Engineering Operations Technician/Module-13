@@ -1,0 +1,7 @@
+Module 13
+1. Downtime disk , knowledge of the operational needs, design decision of a data centre
+2. MTBF = beginning of downtime- beginning of uptime / total no. of failures 
+3. Low reliability 
+4. Availability 
+5. MTBF / MTBF+ MTTR
+6. Exhausted fuel in the backup generator, Nonfunctional batteries 
